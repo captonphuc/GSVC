@@ -1,1 +1,117 @@
-
+﻿Độ tuổi tiêm BCG không cần làm xét nghiệm?|Sơ sinh đến 1 tuổi|Chỉ sơ sinh|Đến 2 tuổi|Đến 6 tháng|Mọi lứa tuổi
+Người truyền máu sau bao lâu thì tiêm BCG?|3 tháng|1 tháng|6 tháng|1 năm|Ngay lập tức
+"Trẻ ≥ 1 tuổi, trong 0.1 ml đem tiêm chứa bao nhiêu mg BCG?
+|0,1 mg"|0,05 mg|0,5 mg|1 mg|0,2 mg
+Heberbiovac, trẻ 10 tuổi 1 ngày tiêm liều?|1ml|0,5ml|1,5ml|2ml|0,75ml
+Heberbiovac, Lịch tiêm 0-1-2-6 có thể được chuyển đổi sang duy nhất loại vắc xin nào?|Engerix B|Gardasil 9|Infanrix|Synflorix|Không loại nào
+Heberbiovac, liều tiêm cho người suy giảm miễn dịch, suy thận, thẩm phân phúc mạc ≥ 16 tuổi|1ml x 2|1ml|2ml|0,5ml x 2|1,5ml
+Gene Hbvax, trẻ trẻ tròn 10 tuổi tiêm liều bao nhiêu ml?|0,5ml|1ml|0,25ml|0,75ml|1,5ml
+Gene Hbvax, Phụ nữ đang cho con bú tiêm được không?|Không|Được|Được, nếu có cam kết|Tùy tình trạng sức khỏe|Cần hỏi ý kiến bác sĩ
+Gene Hbvax, trễ lịch mũi 2 ≥ 4 tháng thì mũi 3 cách mũi 2 mấy tháng?|Tối thiểu 2 tháng|1 tháng|3 tháng|4 tháng|6 tháng
+Engerix B, Lịch tiêm 0-1-2-6 có thể được chuyển đổi sang duy nhất loại vắc xin nào?|Heberbiovac|Pentaxim|Boostrix|Adacel|Không loại nào
+Engerix B, người tròn 20 tuổi tiêm liều?|1ml|0,5ml|2ml|1,5ml|0,75ml
+Twinrix, lịch tiêm 0-7-21-1 năm dùng cho ngưởi bao nhiêu tuổi?|Từ 16 tuổi|Từ 18 tuổi|Mọi lứa tuổi|Dưới 16 tuổi|Từ 12 tuổi
+Twinrix, có cần làm cam kết khi tiêm cho phụ nữ cho con bú không?|Có|Không|Chỉ khi có bệnh nền|Tùy trung tâm|Không bắt buộc
+Infanrix, trẻ sinh đủ tháng có thể tiêm sớm nhất lúc?|6 tuần tuổi|2 tháng tuổi|3 tháng tuổi|8 tuần tuổi|Khi trẻ cứng cáp
+Infanrix, tuổi tối đa được tiêm?|Tròn 24 tháng tuổi|Tròn 12 tháng tuổi|Tròn 36 tháng tuổi|Trước 5 tuổi|Không giới hạn
+Hexaxim, trẻ sinh non tháng có thể tiêm sớm nhất lúc?|Tròn 2 tháng tuổi|6 tuần tuổi|Tròn 3 tháng tuổi|Khi đủ cân nặng|Như trẻ đủ tháng
+Hexaxim, Tiêm cùng thủy đậu được không?|Không|Được|Cách nhau 2 tuần|Tiêm khác chi|Cần hỏi ý kiến bác sĩ
+Synflorix, trẻ 7 đến < 12 tháng tuổi, mũi 2 trễ lịch lúc ≥ 1 tuổi: chỉ định mũi 3 cách mũi 2 tối thiểu bao nhiêu tháng?|2 tháng|1 tháng|3 tháng|4 tháng|6 tháng
+Synflorix, tuổi chỉ định sớm nhất lúc?|6 tuần|2 tháng|8 tuần|3 tháng|45 ngày
+Prevenar, Trẻ em và người lớn cấy tế bào gốc tạo máu tiêm mấy mũi?|4|2|3|1|5
+Prevenar, Phụ nữ đang cho con bú tiêm thường qui được không?|Không|Được|Chỉ 1 mũi duy nhất|Sau khi sinh 6 tháng|Cần làm cam kết
+Pneumovax 23, kh nữ sau tiêm bao lâu thì được phép mang thai?|1 tháng|3 tháng|6 tháng|2 tuần|2 tháng
+"Phẩu thuật cắt Lách thì chỉ định vắc xin Pneumovax trước phẫu thuật bao lâu?
+|2 tuần"|1 tuần|4 tuần|2 tháng|1 ngày
+Người có nguy cơ cao (đã tiêm Synflorix/Prevenar) cách từ mấy tuần tiêm Pneumovax 23?|8 tuần|4 tuần|2 tuần|6 tuần|12 tuần
+Người lớn có thể tiêm đồng thời Vaxneuvance với vắc xin nào?|Cúm|Thủy đậu|Sởi|Dại|Phế cầu 23
+Trẻ 2 tuổi tiêm đồng thời Vaxneuvance + Typhim được không?|Không|Được|Tiêm khác chi|Cách nhau 2 tuần|Tùy tình trạng trẻ
+Tuổi tối đa uống Rotavin?|Trước 6 tháng|Trước 8 tháng|Trước 1 tuổi|Trước 24 tuần|Không giới hạn
+Truyền máu thì bao lâu sau uống Rotavin được?|28 ngày|42 ngày|14 ngày|2 tháng|Không cần cách
+Tuổi tối đa uống Rotarix?|Trước 24 tuần|Trước 32 tuần|Trước 6 tháng|Trước 1 tuổi|Không giới hạn
+Phác đồ quy định sau truyền máu thì bao lâu sau uống Rotarix được?|Không đề cập|42 ngày|28 ngày|6 tuần|Không cần cách
+Tuổi tối đa uống Rotateq?|Trước 32 tuần|Trước 24 tuần|Trước 8 tháng|Trước 1 tuổi|Không giới hạn
+Truyền máu thì bao lâu sau uống Rotateq được?|42 ngày|28 ngày|14 ngày|3 tháng|Không cần cách
+Rotateq có thể uống sớm nhất lúc?|6 tuần|7 tuần|8 tuần|2 tháng|Khi trẻ bú tốt
+Mũi 1 Rotateq có thể uống trễ lúc?|Trước 15 tuần tuổi|Trước 12 tuần tuổi|Trước 20 tuần tuổi|Trước 6 tháng|Không giới hạn
+Vaxigrip tetra có thể dùng đồng thời với vắc xin khác trên cùng 1 Chi không?|Có|Không|Chỉ với vắc xin bất hoạt|Tùy loại vắc xin|Chỉ được tiêm một mình
+Người phản vệ độ 2 với Neomycin có tiêm được Vaxigrip tetra tại trung tâm không?|Không|Có|Được, nếu có cam kết|Chuyển viện tiêm|Cần hội chẩn
+Influvac tetra có thể dùng đồng thời với vắc xin khác trên cùng 1 Chi không?|Không|Có|Chỉ với vắc xin sống|Tùy loại vắc xin|Chỉ được tiêm một mình
+Người phản vệ độ 1 với Gentamicin có tiêm được Influvac tetra tại trung tâm không?|Có|Không|Chống chỉ định|Chuyển viện tiêm|Cần hội chẩn
+GCFLU Quadrivalent có thể dùng đồng thời với vắc xin khác trên cùng 1 Chi không?|Có|Không|Chỉ với vắc xin cúm khác|Không khuyến cáo|Chỉ được tiêm một mình
+Người suy dinh dưỡng có tiêm được GCFLU Quadrivalent không?|Không|Có|Được, nếu đủ cân nặng|Cần khám chuyên khoa|Chống chỉ định
+Người co giật trong vòng 1 năm, tiêm được GCFLU Quadrivalent không?|Không|Có|Được, nếu đã ổn định|Chống chỉ định|Chỉ tiêm tại bệnh viện
+Liều khi tiêm Ivacflu-S cho trẻ 2 tuổi?|0,25 ml|0,5 ml|1 ml|0,1 ml|0,75 ml
+Người đã từng bị phản vệ với vắc xin khác, tiêm Ivacflu-S được không?|Không|Có|Được, nếu không phải vắc xin cúm|Cần test trước tiêm|Chỉ tiêm tại bệnh viện
+Người có tiền sử co giật, tiêm Ivacflu-S được không?|Không|Có|Được, nếu trên 5 năm|Chống chỉ định|Cần khám chuyên khoa
+Mengoc BC 2 mũi tiêm cách nhau 42 ngày được không?|Được|Không, tối thiểu 45 ngày|Không, tối thiểu 60 ngày|Được, nếu trên 1 tuổi|Tùy chỉ định
+Tuổi tối đa tiêm Mengoc BC?|Trước 46 tuổi|Không giới hạn|Trước 56 tuổi|Trước 18 tuổi|Trước 65 tuổi
+Mengoc BC tiêm sớm nhất lúc mấy tháng tuổi?|6 tháng|2 tháng|3 tháng|9 tháng|12 tháng
+Bexsero có tiêm đồng thời hoặc trong cùng 1 ngày với vắc xin 5in1, DPT không?|Không|Có|Tiêm khác chi|Cách nhau 24 giờ|Tùy trung tâm
+Tuổi tối đa chỉ định Bexsero?|Trước 51 tuổi|Không giới hạn|Trước 46 tuổi|Trước 26 tuổi|Trước 65 tuổi
+Bexsero được tiêm sớm nhất lúc bao nhiêu tuổi?|8 tuần|6 tuần|2 tháng|3 tháng|6 tháng
+Bao lâu sau tiêm Mvvac thì mang thai được?|1 tháng|3 tháng|6 tháng|2 tuần|An toàn cho thai kỳ
+Sau truyền máu bao lâu thì tiêm Mvvac được?|3 tháng|1 tháng|6 tháng|42 ngày|Không cần cách
+Tuổi tối đa tiêm Menactra?|Trước 56 tuổi|Không giới hạn|Trước 46 tuổi|Trước 18 tuổi|Trước 65 tuổi
+Menactra tiêm cùng Td trong độ tuổi nào?|11-17 tuổi|9-15 tuổi|15-25 tuổi|Trên 18 tuổi|Mọi lứa tuổi
+Bao lâu sau tiêm Priorix thì mang thai được?|1 tháng|3 tháng|6 tháng|2 tháng|An toàn cho thai kỳ
+Priorix tiêm Bắp được không?|Được|Không, chỉ tiêm dưới da|Không khuyến cáo|Tùy vị trí tiêm|Chỉ với người lớn
+Priorix có được tiêm thường quy cho phụ nữ đang cho con bú không?|Không|Có|Được, sau khi sinh 6 tháng|Cần làm cam kết|Tùy tình trạng sức khỏe
+Bao lâu sau tiêm Imojev thì mang thai được?|1 tháng|3 tháng|4 tuần|2 tháng|An toàn cho thai kỳ
+Imojev có được tiêm cho phụ nữ đang cho con bú không?|Không|Có|Được, nếu trẻ trên 1 tuổi|Cần làm cam kết|Chống chỉ định
+2 mũi Varilrix tiêm cách nhau tối thiểu bao lâu?|6 tuần|4 tuần|8 tuần|3 tháng|1 tháng
+Bao lâu sau tiêm Varilrix thì mang thai được?|1 tháng|3 tháng|6 tuần|2 tháng|An toàn cho thai kỳ
+Mũi 2 Avaxim có thể tiêm muộn bao lâu?|36 tháng|12 tháng|24 tháng|60 tháng|5 năm
+Độ tuổi tối đa tiêm Avaxim 80UI?|< 16 tuổi|< 18 tuổi|< 10 tuổi|< 20 tuổi|Không giới hạn
+Độ tuổi tối đa tiêm MMR?|Tròn 10 tuổi|Không giới hạn|Tròn 12 tuổi|Tròn 15 tuổi|Tròn 18 tuổi
+MMR tiêm dưới da tại đùi được không?|Được|Không, chỉ tiêm ở tay|Không, chỉ tiêm bắp|Không khuyến cáo|Chỉ với trẻ nhỏ
+Bao lâu sau tiêm MMRII thì mang thai được?|3 tháng|1 tháng|6 tháng|2 tháng|An toàn cho thai kỳ
+MMRII tiêm bắp được không?|Được|Không, chỉ tiêm dưới da|Không khuyến cáo|Chỉ ở người lớn|Tùy vị trí tiêm
+Sau truyền máu bao lâu thì tiêm Varivax được?|5 tháng|3 tháng|6 tháng|8 tháng|12 tháng
+Tránh dùng salicylate bao lâu sau tiêm vắc xin thủy đậu?|6 tuần|2 tuần|4 tuần|8 tuần|3 tháng
+Sau truyền máu bao lâu thì tiêm Varicella được?|5 tháng|3 tháng|6 tháng|2 tháng|8 tháng
+Bao lâu sau tiêm Varicella thì mang thai được?|2 tháng|1 tháng|3 tháng|6 tuần|An toàn cho thai kỳ
+Typhim tiêm dưới da được không?|Được|Không, chỉ tiêm bắp|Không khuyến cáo|Chỉ với trẻ em|Tùy chỉ định
+Độ tuổi thường quy tiêm Typhim?|> 2 tuổi|> 1 tuổi|> 5 tuổi|> 6 tháng|Mọi lứa tuổi
+Độ tuổi thường quy uống Tả?|> 2 tuổi|> 1 tuổi|> 5 tuổi|> 6 tháng|Mọi lứa tuổi
+Vắc xin/thuốc khác dùng qua đường miệng: Không dùng trước và sau bao lâu khi dùng mORCVAX?|1 giờ|30 phút|2 giờ|4 giờ|15 phút
+Tuổi tối đa tiêm Quimi-hib?|< 16 tuổi|< 5 tuổi|< 18 tuổi|< 10 tuổi|Không giới hạn
+Trẻ > 12 tháng tuổi đến < 16 tuổi tiêm mấy mũi Quimi-hib?|1|2|3|4|Tùy cân nặng
+Tuổi tối đa tiêm Tetraxim?|< 14 tuổi|< 7 tuổi|< 10 tuổi|< 18 tuổi|Không giới hạn
+Tuổi tối thiểu tiêm Tetraxim?|2 tháng tuổi|6 tuần tuổi|3 tháng tuổi|6 tháng tuổi|1 tuổi
+Bao lâu sau tiêm Qdenga thì mang thai được?|1 tháng|3 tháng|6 tháng|2 tháng|An toàn cho thai kỳ
+Sau truyền máu tối thiểu bao lâu thì tiêm Qdenga được?|6 tuần|4 tuần|8 tuần|3 tháng|Không cần cách
+Lịch dự phòng Dại?|0-7-21/28|0-3-7-14|0-7-14|0-1-6|0-5-10
+Huyết thanh kháng Dại không được tiêm quá mấy ngày, kể từ liều vắc xin dại đầu tiên?|7|3|5|10|14
+Vết xước, vết cào, liếm trên da bị tổn thương, niêm mạc là độ mấy?|II|I|III|IV|Không phân độ
+Chó/mèo cắn thì theo dõi trong vòng mấy ngày?|10|7|14|15|5
+Vết cắn/cào chảy máu ở vùng xa thần kinh trung ương là độ mấy?|III|I|II|IV|Không phân độ
+Lịch tiêm nhanh Gardasil tứ giá?|0-1-4|0-2-6|0-1-6|0-7-21|0-1-3
+Nam giới, 20 tuổi tiêm Gardasil tứ giá có cần làm cam kết không?|Có|Không|Chỉ khi có bệnh nền|Chỉ khi yêu cầu|Tùy trung tâm
+Nữ giới, 29 tuổi tuổi tiêm Gardasil tứ giá có cần làm cam kết không?|Có|Không|Không, nếu đã có con|Không, nếu đã đủ 3 mũi|Tùy trung tâm
+Đã tiêm đủ phác đồ 3 mũi Gardasil tứ giá, cách bao lâu tiêm được Gardasil 9?|1 năm|6 tháng|2 năm|3 tháng|5 năm
+Nam giới, 30 tuổi tiêm Gardasil 9 có cần làm cam kết không?|Không|Có|Bắt buộc|Tùy trung tâm|Chỉ khi có bệnh nền
+Nữ giới, 29 tuổi tuổi tiêm Gardasil 9 có cần làm cam kết không?|Không|Có|Bắt buộc|Tùy trung tâm|Chỉ khi có bệnh nền
+Phụ nữ đang cho con bú tiêm shingrix được không?|Không|Được|Được, nếu trẻ > 6 tháng|Cần làm cam kết|Chống chỉ định
+Tuổi tối thiểu tiêm shingrix?|18 tuổi|50 tuổi|40 tuổi|30 tuổi|26 tuổi
+Người 40 tuổi có hệ miễn dịch bình thường tiêm Shingrix được không?|Không|Có|Chỉ khi có nguy cơ cao|Được, nếu có chỉ định|Tùy trung tâm
+Phụ nữ mang thai cần hoàn thành lịch tiêm trước ngày dự sinh tối thiểu bao lâu?|2 tuần|1 tuần|4 tuần|1 tháng|3 tháng
+Lịch tiêm TT của người chưa từng tiêm/không rõ lịch sử tiêm chủng?|0-1-7-10 năm|0-1-6|0-1-6-1 năm|0-2-4|0-3-6
+SAT có nguồn gốc từ?|Ngựa|Người|Thỏ|Bò|Tổng hợp
+Có bắt buộc phải test huyết thanh Ivacrig trước tiêm không?|Không|Có|Bắt buộc với mọi liều|Chỉ khi có cơ địa dị ứng|Tùy trung tâm
+Liều sau pha loãng của Ivacrig để test?|0,02ml|0,1ml|0,01ml|0,2ml|1ml
+Tuổi tối đa tiêm Boostrix?|Không giới hạn|< 65 tuổi|< 56 tuổi|< 46 tuổi|Chỉ dành cho người lớn
+Boostrix có tiêm thường quy được cho phụ nữ đang cho con bú không?|Không|Có|Cần làm cam kết|Được, nếu trẻ > 1 tuổi|Tùy tình trạng sức khỏe
+Tuổi tối đa tiêm Adacel?|Trước 65 tuổi|Không giới hạn|Trước 56 tuổi|Trước 46 tuổi|Chỉ dành cho người lớn
+Adacel tiêm được cho phụ nữ mang thai không?|Được|Không|Chống chỉ định|Chỉ trong 3 tháng cuối|Cần làm cam kết
+Tuổi tối đa tiêm Jeev 3mcg?|Tròn 3 tuổi|< 3 tuổi|< 5 tuổi|Tròn 5 tuổi|Không giới hạn
+Jeev, mũi 3 cách mũi 2 bao lâu?|1 năm|6 tháng|2 năm|3 tháng|18 tháng
+Liều tiêm Jevax cho trẻ tròn 3 tuổi?|0,5ml|1ml|0,25ml|0,75ml|1,5ml
+Jevax mũi 1 cách mũi 2 một tuần được không?|Được|Không|Chỉ với liều 1ml|Không, phải cách 2 tuần|Tùy chỉ định bác sĩ
+Td có tiêm được cho phụ nữ mang thai không?|Có|Không|Chống chỉ định|Chỉ trong 3 tháng giữa|Cần làm cam kết
+Tuổi tối thiểu tiêm Td?|7 tuổi|5 tuổi|10 tuổi|12 tuổi|15 tuổi
+Prevenar 13 tiêm sau Td thì cần cách bao lâu?|1 tháng|Cùng lúc|2 tuần|4 tuần|8 tuần
+Td có chỉ định được thường quy cho phụ nữ đang cho con bú không?|Không|Có|Được, nếu trẻ > 6 tháng|Cần làm cam kết|Chống chỉ định
+Liều Adrenaline cho người 8kg?|0,2ml|0,1ml|0,08ml|0,25ml|0,5ml
+Liều Adrenaline cho người 15kg?|0,25ml|0,15ml|0,2ml|0,3ml|0,5ml
+Liều Adrenaline cho người 40kg?|0,5-1ml|0,4ml|0,5ml|1ml|1,5ml
